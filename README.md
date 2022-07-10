@@ -1,7 +1,7 @@
 # Machine-Learning
 This repository contains detail learning materials on Machine Learning. It involves notes surrounding supervised learning involving both regression and classification, unsupervised learning and reinforced learning. This is a complete repository for in depth understanding of important machine learning techniques.
 
-#Insights 
+# Insights 
 Description of various folders is as follows: 
 
 ## Ensemble Techniques 
