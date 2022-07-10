@@ -10,3 +10,10 @@ gradient boost and adaptive boosting. We will discuss four things in here:
     2. Gradient Boosting : Regressor and Classifier Indepth intuition, hand proof, code implementation
     3. Xg Boost: Regressor and Classifier Indepth intuition, hand proof, code implementation
  
+
+# Important Links 
+
+## Decision Trees 
+
+1. A complete guide : https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14
+2. 
